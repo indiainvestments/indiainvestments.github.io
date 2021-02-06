@@ -1,0 +1,25 @@
+name: Publish new FAQs to discord
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - "main"
+jobs: 
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Checkout sources
+          uses: actions/checkout@v2
+          with:
+            persist-credentials: false
+            fetch-depth: 0
+        
+        - name: Publish to Discord 
+          uses: indiainvestments/faq-to-discord-action@main
+          with:
+            faq_glob: "content/en/faqs/*.md"
+            website_base_url: "https://indiainvestments.github.io"  
+            discord_token: ${{ secrets.DISCORD_TOKEN }}
+            discord_channel: ${{ secrets.DISCORD_CHANNEL }}
