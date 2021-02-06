@@ -12,9 +12,9 @@ Unlike bank or post-office deposits, LIC returns are not legally guaranteed. Gov
 
 In practice, LIC returns money you'd paid as premium + some bonus. There are different categories of these bonuses: _loyalty bonus_, _guaranteed addition_ etc. LIC wants to make you feel they're doing you a favor by giving you some bonus. Historically, a bank FD / RD at SBI would have had higher returns than LIC policy over a given period.
 
-You can know your bonus only after the policy matures.
+You can know your bonus after the policy matures.
 
-LIC is also not allowed to invest freely. They are the largest financial services company in the country, and therefore have much more cash than any other financial institution, that they can invest. However, large corpus of few lakh crores are not easy to invest. So they have to look for distressed assets, or wait for really bad market condition before deploying sizeable chunk of that cash.
+LIC is also not allowed to invest freely. They are the largest financial services company in the country, and have much more cash than any other financial institution, that they can invest. However, large corpus of few lakh crores are not easy to invest. So they have to look for distressed assets, or wait for really bad market condition before deploying sizeable chunk of that cash.
 
 There's also political interference to consider - as evident from LIC's bailout of IDBI bank. LIC's hands are tied, in when it comes to where they can / cannot invest.
 
@@ -37,3 +37,6 @@ These premiums cannot be changed once you start paying for a policy. You have no
 Overall, an LIC policy is rigid, wasteful, and doesn't provide adequate coverage. Tax benefits are not good enough to offset the opportunity cost (i.e. you're missing out on other efficient assets and time).
 
 **Avoid LIC policies, buy vanilla pure term cover, and invest in efficient market-linked transparent assets yourself. If your question is _but what if markets don't do well in next 15-20 years?_, then the LIC policy also has same fate.**
+
+#### Addendum
+The general perception of the term "LIC policy" is any moneyback/endowment policy, in which there is some investment component also, i.e. after the end of the term of the policy, you will get money returned back to you. There are pure protection plans available by LIC and other insurance companies, which are what are recommended. In case of LIC, these are Jeevan Amar and Jeevan Tech Term. All others are some combination of moneyback plans. 
