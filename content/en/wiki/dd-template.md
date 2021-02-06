@@ -1,7 +1,8 @@
 ---
 title: Due Diligence (DD) checklist
-category: faq
+category: wiki
 position: 12
+description: A checklist to reference while performing due diligence on a company.
 ---
 
 ## Sector/Industry
