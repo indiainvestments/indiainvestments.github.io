@@ -15,9 +15,10 @@ jobs:
             fetch-depth: 0
         
         - name: Publish to Discord 
-          uses: indiainvestments/faq-to-discord-action@main
+          uses: namasteOriginally/faq-to-discord-action@main
           with:
             faq_glob: "content/en/faqs/*.md"
             website_base_url: "https://indiainvestments.github.io"  
             discord_token: ${{ secrets.DISCORD_TOKEN }}
             discord_channel: ${{ secrets.DISCORD_CHANNEL }}
+            mongodb_url: ${{ secrets.MONGODB_URL }}
