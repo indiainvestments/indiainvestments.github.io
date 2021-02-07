@@ -10,7 +10,7 @@ If you google top mutual funds, you'd find plenty of communities or online publi
 
 No one can predict how markets would perform in near future (short term), or over long periods of time. And when we say no one, we really mean **no one at all**.
 
-London stock exchange is the oldest, with ~400 years of history. US markets have been around for ~120+ years. Indian markets are young, been around for only a little over 40 years.
+Amsterdam is the oldest stock exchange, founded in the 1460s. London stock exchange is one of the oldest, founded in 1801, with nearly ~220 years of history. US markets have been around for ~200+ years, since the early 1800s (NYSE was established in 1817). Indian markets are relatively young, been around for only a little over 40 years, in any meaningful way. BSE was founded in 1870s, but it's hard to find reliable data since before Sensex was created in 1979. Some even suggest to ignore data from before NSE was created in 1994, which gives us ~25 years worth of market data to analyse.
 
 Despite all these data, there's no prediction algorithm or deep-learning solutions; that can predict future market behavior accurately or near-accurately. Markets would surprise you from time-to-time, and new events would keep on happening in all markets, all over the world.
 
