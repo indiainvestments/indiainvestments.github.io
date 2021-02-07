@@ -1,8 +1,9 @@
 name: Publish new FAQs to discord
 
 on:
-  schedule:
-    - cron: 0 1 * * *
+  release:
+    types: [created]
+
 jobs: 
   publish:
     runs-on: ubuntu-latest
