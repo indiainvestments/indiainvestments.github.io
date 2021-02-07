@@ -1,4 +1,10 @@
-# Government Securities
+---
+title: Government Securities
+category: wiki
+description: A government security is a type of bond issued by the Central Government or the State Governments.
+position: 5
+---
+
 A government security is a type of bond issued by the Central Government or the State Governments. They are broadly classified into two main categories based on the duration.
 
 * **Short Term Bonds** - Colloquially known as Treasury Bills (T Bills), these are secrurities that are issued for durations shorter than a year. Generally, only the central government issues this type of securities.
