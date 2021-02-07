@@ -1,6 +1,9 @@
 name: website
 
-on: [push]
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   cd:
