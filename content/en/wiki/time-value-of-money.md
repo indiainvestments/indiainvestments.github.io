@@ -12,20 +12,20 @@ Two types of Interest Calculations:
 
 1. Simple Interest – SI = P x R x T, where P= principal, R= rate of interest and T= time in years. So, if the bank account gives you 4% (=R) and you put ₹1000 (=P) for 5 years (=T), the interest would be (1000) x (4/100) x (5) = 200. And you will get 1000 (the principal) and 200 (the interest) after 5 years = 1200.
 
-2. Compound Interest – in this each year’s interest also starts to get interest like the principal (if it is yearly compounding).
+2. Compound Interest – in this each year’s interest also starts to get interest like the principal (if compounding is yearly).
 
-Year|Principal|Rate of Interest|Interest at Year End|Total Value at Year end
-:-:|:-:|:-:|:-:|:-:
-1|1000|4|40|1040
-2|1040|4|41.6|1081.6
-3|1081.6|4|43.264|1124.86
-4|1124.86|4|44.99|1169.86
-5|1169.86|4|46.79|1216.65
+|Year|Principal|Rate of Interest|Interest at Year End|Total Value at Year end|
+|:-:|:-:|:-:|:-:|:-:|
+|1|1000|4|40|1040|
+|2|1040|4|41.6|1081.6|
+|3|1081.6|4|43.264|1124.86|
+|4|1124.86|4|44.99|1169.86|
+|5|1169.86|4|46.79|1216.65|
 
 
-Due to the effect of compounding, one would get ₹16.6576 more than what one would have got with simple interest. This looks very small, but compounding has great effects over long periods of time.
+Due to the effect of compounding, one would get ₹16.6576 more than what one would have got with simple interest. This looks small, but compounding has great effects over long periods of time.
 
-Eg. For a period of 35 years, an 8% simple interest on ₹1000 would give you a total of ₹3,800 (1000 principal and 2800 as interest). With compounding, however, you would get ₹14,785 (1000 principal and 13785 as interest). A 5x difference.
+Eg. For a period of 35 years, an 8% simple interest on ₹1000 would give you a total of ₹3,800 (1000 principal and 2800 as interest). With compounding, you would get ₹14,785 (1000 principal and 13785 as interest). A 5x difference.
 
 **Future Value of a Single Investment**
 
@@ -42,7 +42,7 @@ The excel formula of FV is there for this calculation.
 Eg 1: if you put ₹10,000 per year @ 8% interest rate compounded yearly for 35 years, how much would you get? Ans. ₹ 18,61,021.
 
 **Present Value of a Single Amount**
-If you want to have ₹1000 after 5 years, how much money do you need to put aside today if you can earn 4%. This is just the reverse of the calculation of FV.
+If you want to have ₹1000 after 5 years, how much money do you need to put aside today if you can earn 4%. This is the reverse of the calculation of FV.
 PV = FV *divided by* (1 + interest rate) ^ (number of years)
 PV = 1000 / (1+0.04)^5 = 821.
 This means that the value of ₹ 821 today is same as ₹ 1000 after 5 years, if we can earn a 4% return on our money.
@@ -54,6 +54,6 @@ The excel function PV would be helpful in this. A [weblink](http://www.calculato
 
 **Important Points to Remember:**
 
-•	The value of money changes with time because it can be invested and can earn an interest.
+•	The value of money changes with time because it can be invested and earn an interest.
 
 •	The longer the time frame, greater would be the difference between the present value and the future value.
