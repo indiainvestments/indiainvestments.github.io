@@ -1,3 +1,10 @@
+---
+title: Time Value of Money
+description: Time value of money implies that rupees paid or received in the future are different from the rupees paid or received today.
+category: wiki
+position: 6
+---
+
 # Time Value of Money
 
 This is one of the most important concepts in finance. It implies that rupees paid or received *in the future* are different from the rupees paid or received *today.* It is easier to understand that ₹1000 in your wallet today are worth more than ₹1000 in your wallet 5 years in the future. This is because you can invest that ₹1000 in your savings account and earn interest for 5 years and get more than ₹1000 5 years later.
