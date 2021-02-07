@@ -27,3 +27,5 @@ For most retail investors, the problem is not the right fund picking. Any averag
 Real problem is not investing enough, and relying too much on returns to make up for the low investment amount. Or not staying with a decent fund long enough.
 
 Asking for best mutual fund is no different from asking which gym is best for you. Finding the perfect gym is not that important. Just like it's more important to be disciplined, in achieving your health & fitness goals, it's also important in achieving your financial _nirvana_.
+
+Dummy text
