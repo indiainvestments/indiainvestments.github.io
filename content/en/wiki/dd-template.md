@@ -72,13 +72,13 @@ description: A checklist to reference while performing due diligence on a compan
     - [ ]  How does regular capital expenditure look like for the company?
     - [ ]  What is the quantum of debt obligations for the company?
     - [ ]  Is there inventory building up for the company?
-    - [ ]  Does the company face issues with collecting cash — Is there recievables building up for the company?
+    - [ ]  Does the company face issues with collecting cash — Is there receivables building up for the company?
 - **Cash Flow Statement**
     - [ ]  Are cash flows from operations comparable to net earnings?
         - [ ]  If CFO > Earnings, cash is not translating to earnings in the P&L statement
         - [ ]  If CFO < Earnings, there may be early revenue recognition without realising/collecting it
     - [ ]  How much cash is being left after tending to operational expenses and capex *(free cash flows)*
-    - [ ]  Are there any anomolies/red flags in the cash flows of the company?
+    - [ ]  Are there any anomalies/red flags in the cash flows of the company?
 - **Profitability Ratios**
     - [ ]  What has been the trend for operating margins for the past few years?
     - [ ]  What has been the trend for net profit margins for the past few years?
@@ -87,7 +87,7 @@ description: A checklist to reference while performing due diligence on a compan
     - [ ]  Is the company over-leveraged? *(in terms of debt to equity etc)*
     - [ ]  What is the latest cost of equity, cost of debt, & thus weighted average cost of capital for the company?
     - [ ]  Is the company able to service its debt obligations? *(in terms of interest coverage ratio, quick ratio etc)*
-- **Effeciency/Operational Ratios**
+- **Efficiency/Operational Ratios**
     - [ ]  How much time does it take for the company to convert its investments into cash? *(in terms of cash conversion cycle)*
     - [ ]  How much time does it take for the company to convert its inventory into sales? *(in terms of inventory days/inventory turnover)*
 - **Industry Benchmarks**
@@ -105,7 +105,7 @@ description: A checklist to reference while performing due diligence on a compan
     - [ ]  Do the promoters or managers of the company communicate well with the shareholders *(hold conference calls, conduct interviews, answer to investor relation emails, etc)?*
 - **Shareholding Pattern**
     - [ ]  What has been the trend for promoter shareholding in the recent past?
-    - [ ]  How does the distribution look between retail and instituitional shareholding?
+    - [ ]  How does the distribution look between retail and institutional shareholding?
     - [ ]  Is there enough free float? Are the shares of the company liquid?
     - [ ]  Is the quantum of shares pledged a concern?
 - **Red Flags**
@@ -138,7 +138,7 @@ description: A checklist to reference while performing due diligence on a compan
     - [ ]  What are the quantitative factors that could invalidate this investment thesis?
     - [ ]  What are the risks or threats that could cause invalidations to this investment thesis?
     - [ ]  What would conclude your investment in the company if everything goes according to the thesis? What is the exit plan?
-    - [ ]  Is your investment thesis in concensus with other participants of investing forums such as r/IndiaInvestments subreddit/discord or ValuePickr? Does this classify as a contrarian bet?
+    - [ ]  Is your investment thesis in consensus with other participants of investing forums such as r/IndiaInvestments subreddit/discord or ValuePickr? Does this classify as a contrarian bet?
     - [ ]  Is your investment thesis based on a corporate action or a key event that would have material impact on the stock price? Does it therefore qualify as a workout investment?
 - **Should this transaction be avoided?**
     - [ ]  Where does the primary thesis for this investment come from? Was it peddled on a news channel/social media post or did it come into your radar as a consequence of independent research?
