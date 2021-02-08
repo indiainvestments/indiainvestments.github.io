@@ -7,7 +7,7 @@ position: 6
 
 # Time Value of Money
 
-This is one of the most important concepts in finance. It implies that rupees paid or received *in the future* are different from the rupees paid or received *today.* It is easier to understand that ₹1000 in your wallet today are worth more than ₹1000 in your wallet 5 years in the future. This is because you can invest that ₹1000 in your savings account and earn interest for 5 years and get more than ₹1000 5 years later.
+This is one of the most important concepts in finance. It implies that rupees paid or received *in the future* are different from the rupees paid or received *today.* It is easier to understand that ₹1000 in your wallet today is worth more than ₹1000 in your wallet 5 years in the future. This is because you can invest that ₹1000 in your savings account and earn interest for 5 years and get more than ₹1000 5 years later.
 
 There are 2 types of calculations which answer 2 different questions:
 
@@ -52,7 +52,7 @@ Eg 1: if you put ₹10,000 per year @ 8% interest rate compounded yearly for 35 
 If you want to have ₹1000 after 5 years, how much money do you need to put aside today if you can earn 4%. This is the reverse of the calculation of FV.
 PV = FV *divided by* (1 + interest rate) ^ (number of years)
 PV = 1000 / (1+0.04)^5 = 821.
-This means that the value of ₹ 821 today is same as ₹ 1000 after 5 years, if we can earn a 4% return on our money.
+This means that the value of ₹ 821 today is the same as ₹ 1000 after 5 years, if we can earn a 4% return on our money.
 
 **Present Value of a Series of Investments**
 
