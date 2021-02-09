@@ -57,4 +57,5 @@ Ray Dalio – [Principles](http://www.bwater.com/Uploads/FileManager/Principles/
 1.  [Abnormal Returns](https://abnormalreturns.com)
 2.  Indian Blogs -     
       a. [Subramoney](http://www.subramoney.com)    
-      b. [Freefincal](https://freefincal.com)
+      b. [MF Critic](https://mfcritic.blogspot.com/)
+      c. [The Eighty Twenty Investor](https://eightytwentyinvestor.com/)
