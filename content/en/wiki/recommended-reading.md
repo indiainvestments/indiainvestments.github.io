@@ -6,6 +6,7 @@ position: 21
 ---
 
 # Books
+
 Recommended Reading List:
 
 ### The Classics:
@@ -22,8 +23,8 @@ Recommended Reading List:
 10. Joel Greenblatt – The Little Book that Beats the Market (there is another book The Little Book that Still Beats the Market). & You Can Be A Stock Market Genius.
 11. Nassim Taleb – The Black Swan and Fooled by Randomness.
 12. William Bernstein – The Four Pillars of Investing and The Investor’s Manifesto.
-13.	John C Bogle – Common Sense on Mutual Funds.
-14.	Charles Ellis – Winning the Loser’s Game.
+13. John C Bogle – Common Sense on Mutual Funds.
+14. Charles Ellis – Winning the Loser’s Game.
 
 ### Other Good Books:
 
@@ -36,16 +37,18 @@ Recommended Reading List:
 7.  Reminiscences of a Stock Operator (by Edwin Lefevre).
 8.  Andrew Tobias - The Only Investment guide You’ll Ever Need. This is a very small book and good for beginners.
 9.  David Einhorn - Fooling Some of the People All of the Time
-10. James Montier – The Little Book of Behavioral Investing. His [work]( http://eurosharelab.com/james-montier-resource-page/).
-11.	Michael Mauboussin – More than You Know.
+10. James Montier – The Little Book of Behavioral Investing. His [work](http://eurosharelab.com/james-montier-resource-page/).
+11. Michael Mauboussin – More than You Know.
 12. Daniel Kahneman – Thinking Fast and Slow.
 13. For some concepts, not all: Rich Dad Poor Dad - Robert Kiyosaki.
 
 ### Statistics:
+
 How to Lie with Statistics by Darrell Huff (1954 book). It is a must-read. [Summary Here](https://www.reddit.com/r/IndiaInvestments/comments/26rscu/suggested_book_list/cjh69q3?utm_source=share&utm_medium=web2x).
 
 ### People Without Books:
-Jeffrey Gundlach – A [short intro](http://www.crossingwallstreet.com/archives/2013/04/the-mind-of-jeffrey-gundlach.html). His [Work]( http://www.doubleline.com/).
+
+Jeffrey Gundlach – A [short intro](http://www.crossingwallstreet.com/archives/2013/04/the-mind-of-jeffrey-gundlach.html). His [Work](http://www.doubleline.com/).
 Ray Dalio – [Principles](http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf)
 
 ### Indian Authors
@@ -55,7 +58,7 @@ Ray Dalio – [Principles](http://www.bwater.com/Uploads/FileManager/Principles/
 ### Finance Aggregators
 
 1.  [Abnormal Returns](https://abnormalreturns.com)
-2.  Indian Blogs -     
-      a. [Subramoney](http://www.subramoney.com)    
-      b. [MF Critic](https://mfcritic.blogspot.com/)
-      c. [The Eighty Twenty Investor](https://eightytwentyinvestor.com/)
+2.  Indian Blogs -  
+     a. [Subramoney](http://www.subramoney.com)  
+     b. [MF Critic](https://mfcritic.blogspot.com/)
+    c. [The Eighty Twenty Investor](https://eightytwentyinvestor.com/)

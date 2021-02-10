@@ -15,13 +15,13 @@ All the content is stored inside `content` directory. We have different director
 
 ### FAQs
 
-`faqs` directory contains commonly asked questions on the subreddit and discord. Please add your entry here if it's an answer to those questions. 
+`faqs` directory contains commonly asked questions on the subreddit and discord. Please add your entry here if it's an answer to those questions.
 
 ### Wiki
 
 `wiki` directory contains long form text on fundamentals stuff related to markets, investing, finance and economy.
 
-##  Website
+## Website
 
 ### Setup
 

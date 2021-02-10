@@ -6,7 +6,19 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "pretty": "prettier --write \"./**/*.{js,jsx,json,md}\"",
+    "lint": "npm run pretty"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,md}": [
+      "npm run lint"
+    ]
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.8.0",
@@ -14,6 +26,9 @@
     "remark-emoji": "^2.1.0"
   },
   "devDependencies": {
-    "@fec/remark-a11y-emoji": "^3.0.0"
+    "@fec/remark-a11y-emoji": "^3.0.0",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0",
+    "prettier": "2.2.1"
   }
 }

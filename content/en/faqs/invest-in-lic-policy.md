@@ -39,4 +39,5 @@ Overall, an LIC policy is rigid, wasteful, and doesn't provide adequate coverage
 **Avoid LIC policies, buy vanilla pure term cover, and invest in efficient market-linked transparent assets yourself. If your question is _but what if markets don't do well in next 15-20 years?_, then the LIC policy also has same fate.**
 
 #### Addendum
-The general perception of the term "LIC policy" is any moneyback/endowment policy, in which there is some investment component also, i.e. after the end of the term of the policy, you will get money returned back to you. There are pure protection plans available by LIC and other insurance companies, which are what are recommended. In case of LIC, these are Jeevan Amar and Jeevan Tech Term. All others are some combination of moneyback plans. 
+
+The general perception of the term "LIC policy" is any moneyback/endowment policy, in which there is some investment component also, i.e. after the end of the term of the policy, you will get money returned back to you. There are pure protection plans available by LIC and other insurance companies, which are what are recommended. In case of LIC, these are Jeevan Amar and Jeevan Tech Term. All others are some combination of moneyback plans.
