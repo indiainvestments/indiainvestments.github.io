@@ -13,13 +13,21 @@ export default theme({
       ]
     }
   },
-  hooks: {
-    'content:file:beforeInsert': async (document, database) => {
-      document.text = `
-       <alert type="warning">Warning</alert>
-      ${document.text}`;
-      console.log(document); // TODO: do remove this
-    }
+  head: {
+    title: 'Redirecting you to Gitbook Domain https://indiainvestments.gitbook.io/content/',
+    meta: [
+      {
+        httpEquiv: "refresh",
+        content: "0; URL=https://indiainvestments.gitbook.io/content/",
+      }
+    ],
+    link: [
+      {
+        rel: "canonical",
+        href: "https://indiainvestments.gitbook.io/content/",
+        hreflang: "en"
+      }
+    ]
   },
   components: true
 })
