@@ -13,5 +13,13 @@ export default theme({
       ]
     }
   },
+  hooks: {
+    'content:file:beforeInsert': async (document, database) => {
+      document.text = `
+       <alert type="warning">Warning</alert>
+      ${document.text}`;
+      console.log(document); // TODO: do remove this
+    }
+  },
   components: true
 })
