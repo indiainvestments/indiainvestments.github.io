@@ -16,7 +16,7 @@ If you start investing today via SIP, and analyze 10 years later, you'd find tha
 
 What about the apps that show you best date of SIP?
 
-These platforms or services are showing you, to prevent an _analysis-paralysis_. It's "one less thing to worry about", therefore prompting it to the user would mean higher conversion rate (assuming this is a metric these platforms are measuring - how many people complete setting up their SIPs).
+These platforms or services are showing you, the "best" date, to prevent an _analysis-paralysis_. It's "one less thing to worry about", therefore prompting it to the user would mean higher conversion rate (assuming this is a metric these platforms are measuring - how many people complete setting up their SIPs).
 
 This is good for the platform, as it's helping the user feel psychologically safe that they're able to see some analysis, no matter how useless it is.
 

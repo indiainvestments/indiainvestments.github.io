@@ -13,19 +13,19 @@ Here you'll find,
 
 # Beating the market — what it means
 
-The phrase _beating the market_ can mean different things for different people. The intuitive definition is to earn returns on a portfolio level that consistently beats the market index. However, more people allocate their equity investments in funds managed actively than passively - so it makes sense to see how your returns stack up against that of professional investors, or at-least try to understand how an individual investor has a fighting chance against institutions in the chase for every possible rupee gain.
+The phrase _beating the market_ can mean different things for different people. The intuitive definition is to earn returns on a portfolio level that consistently beats the market index. However, more people allocate their equity investments in funds managed actively than passively - so it makes sense to see how your returns stack up against that of professional investors (simply put, those who invest money on behalf of others), or at-least try to understand how an individual investor has a fighting chance against institutions in the chase for every possible rupee gain.
 
 ## Beating the index
 
 It's easy to achieve average market performance, one simply needs to _buy the market_ through a low cost index or exchange trading fund - and there's nothing wrong with aiming to get what is known as market returns; between February 2000 to 2020, over a 20 year period, Nifty Total Return Index [^1] returned a compounded annualized growth rate of 14.3% per year, comfortably beating inflation.
 
-If **efficient market hypothesis** is to be believed, stock prices reflect consensus view of all publicly available information that can have a material impact on the price action of the stock. However, that doesn't render the exercise of finding mismatches between price and intrinsic value of a stock ineffectual. Instead, it involves finding instances where the consensus view of the market is itself inaccurate, thus creating an opportunity to make money from the difference.
+If **efficient market hypothesis** is to be believed, stock prices reflect consensus view of all publicly available information that can have a material impact on the price action of the stock. However, that doesn't render the exercise of finding mismatches between price and intrinsic value of a stock ineffectual. Instead, it involves finding instances where the consensus view of the market is itself inaccurate, thus creating an opportunity to make money from the divergence.
 
 So, if an analytical mind is willing to invest time and effort in pursuit of such mismatches, earning profits higher than the market returns is possible, and can be a great tool to create wealth for goals.
 
 ## Beating professional investors
 
-There are several logical, financial, and regulatory obstructions that a professional investor has to face, which makes the prospects of beating them higher. Some are,
+There are several logical, financial and regulatory obstructions that a professional investor has to face, which makes the prospects of individual investors beating them higher. Some are,
 
 - The account size of professional investors is such that any meaningful investment in a midcap or smallcap stock has an impact on its price. And so, they're constrained with a limited universe of companies to pick from.
 - Professional investors are bound by the mandate of the fund they manage, and so any investment that falls outside of this mandate is out of the question, further constraining the universe of companies to invest in.
@@ -42,19 +42,19 @@ An argument can be made that another upside to the exercise of stock picking is 
 
 # Can you beat the market?
 
-Establishing the possibility of beating the market is kaput if one doesn't acknowledge what it takes to do it consistently — a brutal cocktail of time, effort, discipline, conviction, contrarianism, and an investment philosophy to invest the time, effort, discipline, and conviction in.
+Establishing the possibility of beating the market is futile if one doesn't acknowledge what it takes to do it consistently — a brutal cocktail of time, effort, discipline, conviction, contrarianism, and an investment philosophy to invest the time, effort, discipline, and conviction in.
 
 ## Sticking to an investment philosophy
 
-An investment philosophy can be thought of as a construct of mental models upon which the investor builds his portfolio upon. If the universe of stocks under the investor's circle of competence is chaos - an unexplored territory of potential, the investor mines out order from this chaos in the form of a portfolio, using mental models as stencils. The lack of having an investment philosophy generally results in owning stocks that are not a perfect fit for the portfolio. As Chuck Palahniuk writes in his book,
+An investment philosophy can be thought of as a construct of mental models upon which the investor builds his portfolio upon. If the universe of stocks under the investor's circle of competence is chaos - an unexplored territory of potential, the investor mines out order from this chaos in the form of a portfolio, using mental models as forklifts. The lack of having an investment philosophy generally results in owning stocks that are not a perfect fit for the portfolio. As Chuck Palahniuk writes in his book,
 
 > 'If you don't know what you want, you end up with a lot you don't.'
 
-So, mental models help investors validate their strategy by providing a confined framework, and an investment philosophy is a set of mental models that the investor follows. Luckily, mental models in stock picking have been figured out to a large extent (such as momentum, growth, low multiples, and value investing), one simply needs to recognize, study, and implement them.
+So, mental models help investors validate their strategy by providing a confined framework, and an investment philosophy is a set of mental models that the investor follows. Luckily, mental models in stock picking have been figured out to a large extent (such as momentum, growth, low multiples and value investing), one simply needs to recognize, study, and implement them.
 
 ## Second level thinking — having an _'edge'_
 
-For all intents and purposes, every investor (professional and individual) competes in pursuit of profits in any asset working with the same information available in the public forum. The consensus on the impact of this information is what establishes the stock price in the short run, and so if your view aligns with that of the majority, it makes sense that you'll largely make market returns - every investor can't beat the market as together they are the market. To get extraordinary returns, you need to have an extraordinary perspective. This is what Howard Marks calls _second level thinking_, Ben Graham calls _trace of wisdom_, and Warren Buffett & Charlie Munger calls _having an edge._
+For all intents and purposes, every investor (professional and individual) competes in pursuit of profits in any asset working with the same information available in the public forum. The consensus on the impact of this information is what establishes the stock price in the short run, and so if your view aligns with that of the majority, it makes sense that you'll largely make market returns - every investor can't beat the market as together they are the market. To get extraordinary returns, you need to have an extraordinary perspective. This is what Howard Marks calls _second level thinking_, Ben Graham calls _trace of wisdom_, and Warren Buffett & Charlie Munger call _having an edge._
 
 This is not to say the consensus view of information is always wrong, in all likeliness millions of other investors may be smarter and more knowledgeable than you. The idea is to find instances where the individual investor can use contrarian insight that the market isn't reflecting, and it has to be accurate, or at-least _more correct_ than the consensus view.
 
@@ -77,7 +77,7 @@ To sum it up, holding consensus view on any material information comes naturally
 
 ## Reading it all
 
-Taking the time and effort to read annual reports, brokerage reports, primers, conference call transcripts, and various other filings are all part of what an investors signs up for while performing due diligence for a company. Skim, and you may miss what disproves your investment thesis, which is perhaps ond of the major reasons for higher churn rates in an individual investor's portfolio.
+Taking the time and effort to read annual reports, brokerage reports, primers, conference call transcripts, and various other filings are all part of what an investors signs up for while performing due diligence for a company. Skim, and you may miss what disproves your investment thesis, which is perhaps one of the major reasons for higher churn rates in an individual investor's portfolio.
 
 When asked on how to make smart investments, Warren Buffett said,
 
@@ -87,7 +87,7 @@ To beat the market, you need to bring what's needed to be a succesful investor, 
 
 ## Conviction and patience is everything
 
-Having an accurate non-consensus view will only get you as far as your conviction on the investment thesis goes. Remember, the market can stay irrational for long durations of time. As Sanjay Bakshi notes in his apparance in an episode of the We Study Billionaires podcast, unlike many other professions, an investor rarely receives an immediate feedback on his operations. Sometimes it takes years for the market to catch up to intrinsic value of an asset, and so it is hard to separate luck from genuine success — so hold on to the underlying process rather than focusing on the outcome. A good handle on your conviction helps you to hang in until other investors catch up on the market's inefficiencies. On this subject, Joel Greenblatt annotates on _The Most Important Thing,_
+Having an accurate non-consensus view will only get you as far as your conviction on the investment thesis goes. Remember, the market can stay irrational for long durations of time. As Sanjay Bakshi notes in his appareance in an episode of the We Study Billionaires podcast, unlike many other professions, an investor rarely receives an immediate feedback on his operations. Sometimes it takes years for the market to catch up to intrinsic value of an asset, and so it is hard to separate luck from genuine success — so hold on to the underlying process rather than focusing on the outcome. A good handle on your conviction helps you to hang in until other investors catch up on the market's inefficiencies. On this subject, Joel Greenblatt annotates on _The Most Important Thing,_
 
 > I always tell my students, “If you do a good job valuing a stock, I guarantee that the market will agree with you.” I just don’t tell them when. It could be weeks or years.
 

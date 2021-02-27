@@ -59,4 +59,3 @@ Ray Dalio – [Principles](http://www.bwater.com/Uploads/FileManager/Principles/
       a. [Subramoney](http://www.subramoney.com)    
       b. [The Eight Twenty Investor](https://eightytwentyinvestor.com/)
       c. [MF Critic](https://mfcritic.blogspot.com/)
-
