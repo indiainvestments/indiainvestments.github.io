@@ -1,3 +1,8 @@
+## ⚠️ ⚠️ Heads Up ⚠️ ⚠️
+
+[We've moved to Gitbook](https://indiainvestments.gitbook.io/content/), and this repo would remain stale for the foreseeable future. Going forward, most of the action would be happening in this repository: https://github.com/indiainvestments/content
+
+
 # India Investments
 
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/indiainvestments?style=social)](https://www.reddit.com/r/IndiaInvestments)
